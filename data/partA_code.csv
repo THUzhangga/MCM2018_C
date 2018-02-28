@@ -1,0 +1,11 @@
+,MSN,Description,Unit
+0,CLTCB,Coal total consumption.,Billion Btu
+1,NGTCB,Natural gas total consumption (including supplemental gaseous fuels).,Billion Btu
+2,PATCB,All petroleum products total consumption.,Billion Btu
+3,NUETB,Electricity produced from nuclear power.,Billion Btu
+4,EMTCB,"Fuel ethanol, excluding denaturant, total consumption.",Billion Btu
+5,GETCB,Geothermal energy total consumption.,Billion Btu
+6,HYTCB,Hydroelectricity total production.,Billion Btu
+7,SOTCB,Photovoltaic and solar thermal energy total consumption.,Billion Btu
+8,WYTCB,Electricity produced from wind energy.,Billion Btu
+9,WWTCB,Wood and waste total consumption.,Billion Btu

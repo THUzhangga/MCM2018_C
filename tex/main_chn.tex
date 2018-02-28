@@ -1,0 +1,21 @@
+\documentclass[utf8]{ctexart} %ctexart类型的文档支持中文，但需要XeLaTeX为编译器
+\input{head} %类似头文件的存在，也可以直接把代码放到这里
+\title{一个简单的 $\LaTeX$模板}
+\author{你的名字。}
+\date{} %设置日期，默认当天
+
+\begin{document}
+
+\maketitle %制作好标题
+\section{第一部分}
+\subsection{第一部分第一个子部分}
+
+\section{Insert a figure}
+\begin{figure}[H] 
+    \centering 
+    \includegraphics[width=0.5\linewidth]{}
+    \caption{}
+    \label{fig:}
+\end{figure}
+
+\end{document}
